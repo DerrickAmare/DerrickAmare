@@ -3,7 +3,7 @@ I’m a Software Engineer with nearly three years of professional experience in 
 
 I have hands-on experience developing responsive and intuitive web applications, integrating third-party APIs, and designing robust backend systems. My strong grasp of database design and management enables me to maintain data integrity and security across projects.
 
-Recently, I’ve expanded my focus into the field of Artificial Intelligence. I’ve been working with both traditional machine learning techniques and neural networks, building and experimenting with classifiers, NLP models, and other AI systems. This transition reflects my growing passion for solving real-world problems using intelligent systems.
+Recently, I’ve expanded my focus into the field of Artificial Intelligence. I’ve been working with both traditional machine learning techniques and neural networks, building and experimenting with classifiers, NLP models, agents, and other AI systems. This transition reflects my growing passion for solving real-world problems using intelligent systems.
 
 Whether I’m refining a frontend interface, optimizing backend performance, deploying and configuring cloud environments and servers, or even training an AI model, I aim to deliver high-quality, impactful solutions that drive user satisfaction and business success.
 
